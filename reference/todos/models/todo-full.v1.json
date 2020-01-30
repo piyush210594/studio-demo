@@ -28,7 +28,7 @@
           "format": "date-time"
         },
         "user": {
-          "$ref": "./todo-partial.v1.json"
+          "$ref": "./user.v1.json"
         }
       },
       "required": [

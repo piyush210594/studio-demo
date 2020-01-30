@@ -1,0 +1,15 @@
+{
+  "title": "level4.json",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "level4": {
+      "type": "string"
+    },
+    "myTodoFull": {
+      "$ref": "./todo-full.v1.json"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "level2.json",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "level2": {
+      "type": "string"
+    },
+    "mylevel3": {
+      "$ref": "./level3.v1.json"
+    }
+  }
+}
